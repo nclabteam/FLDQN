@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-19 12:49:03 by Eclipse SUMO GUI Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\wahab\Desktop\Review\Code\venv-sumo\./Net/dqn.net.xml"/>
+        <route-files value="C:\Users\wahab\Desktop\Review\Code\venv-sumo\./Rou/dqnrandom.rou.xml"/>
+        <additional-files value="C:\Users\wahab\Desktop\Review\Code\venv-sumo\./Add/dqn.det.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\wahab\Desktop\Review\Code\venv-sumo\rl1.settings.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e2_file.xsd">
+</detector>
