@@ -19,7 +19,7 @@ defer==1.0.6
 distro==1.7.0
 distro-info==1.1+ubuntu0.2
 flatbuffers==23.5.26
-flwr==1.5.0
+flwr==1.4.0
 fonttools==4.42.1
 gast==0.4.0
 google-auth==2.23.0
@@ -87,9 +87,10 @@ ssh-import-id==5.11
 sumolib==1.18.0
 sympy==1.12
 systemd-python==234
+SUMO==1.14.1
 tensorboard==2.13.0
 tensorboard-data-server==0.7.1
-tensorflow==2.13.0
+tensorflow==2.12.0
 tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.34.0
 termcolor==2.3.0
