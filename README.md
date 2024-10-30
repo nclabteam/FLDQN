@@ -24,3 +24,6 @@ You need to install [SUMO](https://www.eclipse.org/sumo/) based on your operatin
 
 5. Modify the parameters in the config.yaml and in the server.py files to match your system's specifications and your desired settings.
 6. It is recommended to use a virtual environment to manage your dependencies and avoid conflicts with other packages on your system.
+
+## Generating the Results
+To run the experiment and generate results, please refer to the instructions in our related repository [here](https://github.com/nclabteam/sumo-marl).
